@@ -1,9 +1,9 @@
-# Livro de Receitas:
+# Cookbook:
 
-Repositório feito durante o curso de introdução ao Git e Github; nele construi esse repositório.
+Repository made during the introductory course to Git and Github; I built this repository there.
 
-# Ferramentas usadas:
+# Tools used:
 
-* Navegador
-* IDE; Vscode
+* browser
+* IDE; vscode
 
